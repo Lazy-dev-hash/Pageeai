@@ -1,0 +1,15 @@
+{
+  "name": "facebook-page-ai",
+  "version": "1.0.0",
+  "description": "Facebook Page AI Bot using OpenAI for text and image responses",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "axios": "^0.27.2",
+    "openai": "^3.2.1"
+  }
+}
