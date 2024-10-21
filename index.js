@@ -7,7 +7,7 @@ const { Configuration, OpenAIApi } = require('openai');
 
 // Replace these with your actual tokens
 const PAGE_ACCESS_TOKEN = 'EAAZAla0AZCCdUBO3OKJcabVB9XkemqZB6ApXbaTLtZAWDGo1rW3VtBcJFZAx9UXUZChBblR0AJSdZCuTJsm51NKOsuvT28d6J6XHI9kqqerdrHA66RW1kDjYDjuuPMYeURt7gQ7MZAp8woSgpfQJpPehOJWTbEWT26HwGB3aVElBFihx0B87AtTuAzCGZCTy4aZC41swZDZD';
-const VERIFY_TOKEN = 'YOUR_VERIFY_TOKEN';
+const VERIFY_TOKEN = 'pagebot';
 const OPENAI_API_KEY = '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';
 
 // Initialize OpenAI API client
